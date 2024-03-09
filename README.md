@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
+<div align="center">
+  <img height="200" src="https://giffiles.alphacoders.com/219/219645.gif"  />
+</div>
+
+###
+
 - 🔭 I’m currently studying at **St. Paul University Surigao**
 
 - 🌱 I’m currently learning **Java, Html, CSS, Python**
